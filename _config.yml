@@ -1,2 +1,3 @@
-	name: Jai Kotia
-	markdown: kramdown
+name: Jai Kotia
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
